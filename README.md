@@ -1,6 +1,6 @@
 <!--
 <h2 align="center">
-  Welcome to Brenda Rikhotso World!
+  Welcome to Edward Murithi World!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h2>
 -->
@@ -18,13 +18,13 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://brikhotso.com">Brenda Rikhotso</a></b>
+                <b><a target="_blank" href="https://brikhotso.com">Edward Murithi</a></b>
         </samp>
 </h3>
 <p align="center">
   <samp>
     <br>
-    「 I am an aspiring full stack Software Engineer from <b>South Africa</b> 」
+    「 I am an aspiring full stack Software Engineer from <b>Kenya</b> 」
     <br>
     <br>
   </samp>
