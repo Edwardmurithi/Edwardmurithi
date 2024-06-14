@@ -1,7 +1,3 @@
-Certainly! Below is a professional README template you can use for your GitHub profile. This template highlights your skills, experience, and includes sections commonly found in professional GitHub profiles.
-
----
-
 # 👋 Hi, I'm Edward
 
 ## About Me
