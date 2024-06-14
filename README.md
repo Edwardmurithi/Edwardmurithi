@@ -7,8 +7,8 @@ I'm a passionate and experienced software developer with a strong background in 
 
 - **Languages:** Python, C, JavaScript, HTML, CSS, Shell Scripting
 - **Frameworks & Libraries:** [Django]
-- **Tools:** Git, Vscode]
-- **Methodologies:** Agile]
+- **Tools:** [Git, Vscode]
+- **Methodologies:** [Agile]
 
 ## 🚀 Experience
 
