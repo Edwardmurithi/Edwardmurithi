@@ -26,7 +26,7 @@ I'm a passionate and experienced software developer with a strong background in 
 
 ## 📈 GitHub Stats
 
-![Edward's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+![Edward's GitHub stats](https://github-readme-stats.vercel.app/api?username=Edwardmurithi&show_icons=true&theme=radical)
 
 ## 🚀 Experience
 
