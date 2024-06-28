@@ -4,7 +4,7 @@
 I'm a passionate and experienced software developer with a strong background in various programming languages and development methodologies. With a keen interest in Agile practices and teamwork, I strive to deliver high-quality software solutions that meet and exceed client expectations.
 
 ## 🔧 Skills & Tools
-- **Languages:** Python, C, JavaScript, HTML, CSS, Shell Scripting
+- **Languages:** [Python, C, JavaScript, HTML, CSS, Shell Scripting]
 - **Frameworks & Libraries:** [Django]
 - **Database Management :** [MySQL]
 - **Technologies & Tools:** [Git, Vscode]
