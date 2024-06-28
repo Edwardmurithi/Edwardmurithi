@@ -13,18 +13,7 @@ I'm a passionate and experienced software developer with a strong background in 
 ## 🚀 Experience
 
 - **[Student] at [Murang'a University]**
-  - **Duration:** [2024] - Present
-  - **Responsibilities:**
-    - Developed and maintained web applications using [LAMP].
-    - Collaborated with cross-functional teams to deliver high-quality software.
-    - Implemented Agile methodologies to streamline development processes.
-
-- **[] at []**
-  - **Duration:** [] - []
-  - **Responsibilities:**
-    - Led a team of developers in creating scalable software solutions.
-    - Wrote clean, maintainable code in Python, JavaScript, and other languages.
-    - Conducted code reviews and provided mentorship to junior developers.
+  - **Duration:** [2022] - Ongoing
 
 ## 📚 Education
 
