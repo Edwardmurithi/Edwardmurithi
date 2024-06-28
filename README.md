@@ -16,7 +16,7 @@ I'm a passionate and experienced software developer with a strong background in 
 
 - **Diploma of Infomation Comunication Technology**
   - **Majors: Back-End Software Development**
-    - Relevant coursework: [Alx Software Engineering, Networking, Algorithms, Data Analysis]
+    - **Relevant coursework:** [Alx Software Engineering, Networking, Algorithms, Data Analysis]
 
 ## 📫 How to Reach Me
 
