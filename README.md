@@ -17,7 +17,7 @@ I'm a passionate and experienced software developer with a strong background in 
 
 ## 📚 Education
 
-- **[Diploma in ICT] in [Software Engineering]**
+- **Diploma of Infomation Comunication Technology**
   - [Murang'a University], [2025]
   - Relevant coursework: [Alx Software Engineering]
 
