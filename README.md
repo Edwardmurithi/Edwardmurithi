@@ -26,12 +26,9 @@ I'm a passionate and experienced software developer with a strong background in 
 
 ## 📈 GitHub Stats
 
-![Edward's GitHub stats](https://github-readme-stats.vercel.app/api?username=Edwardmurithi&show_icons=true&theme=radical height="192px" width="49.5%")
-<a> 
-    <a href="https://github.com/Edwardmurithi"><img alt="Edward's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Edwardmurithi&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+![Edward's GitHub stats](https://github-readme-stats.vercel.app/api?username=Edwardmurithi&show_icons=true&theme=radical)
+![Edward's Top Languages](https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Edwardmurithi&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866)
   <a href="https://github.com/Edwardmurithi"><img alt="Edward's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Edwardmurithi&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <br/>
-</a>
 
 ## 🚀 Experience
 
