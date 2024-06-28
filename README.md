@@ -46,26 +46,3 @@ I'm currently expanding my knowledge in [Nodejs], focusing on [Backend developme
 
 ![Edward's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
 
-## 🏆 Achievements
-
-- **[Any awards or recognitions you have received]**
-
-## 🔗 Projects
-
-- **[Project Name]**
-  - **Description:** [Brief description of the project]
-  - **Technologies Used:** [List the technologies used]
-  - **GitHub Repo:** [Link to the repository]
-
-- **[Another Project Name]**
-  - **Description:** [Brief description of the project]
-  - **Technologies Used:** [List the technologies used]
-  - **GitHub Repo:** [Link to the repository]
-
-## 🤝 Contributions
-
-- [Link to contributions, open-source projects you have contributed to, etc.]
-
----
-
-Feel free to modify this template to better fit your personal style and the specifics of your professional background. This template provides a clear and structured way to present your skills and experience on your GitHub profile.
