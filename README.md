@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Edward
 
-# I'm a Full-stack Software Developer
+## I'm a Full-stack Software Developer
 
 ## 📈 GitHub Stats
 
