@@ -1,5 +1,7 @@
 # 👋 Hi, I'm Edward
 
+# I'm a Full-stack Software Developer
+
 ## 📈 GitHub Stats
 
 ![Edward's GitHub stats](https://github-readme-stats.vercel.app/api?username=Edwardmurithi&show_icons=true&theme=radical)
