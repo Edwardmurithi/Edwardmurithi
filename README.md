@@ -1,18 +1,13 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Edward Mutethia
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)there I'm Edward Mutethia
 =======================================================================================================================================
 
-🚀 Software Engineer | Full Stack Developer | Python | JavaScript | PostgreSQL
+Full Stack Developer
 ------------------------------------------------------------------------------
 
 I specialize in backend and full-stack development using Python, JavaScript, and PostgreSQL. My expertise includes building scalable APIs, optimizing databases, and developing efficient web applications.
 
 * 🌍  I'm based in Kenya
-* 🖥️  See my portfolio at [techwithedward](http://https://techwithedward.netlify.app/)
 * ✉️  You can contact me at [murithiedward330@gmail.com](mailto:murithiedward330@gmail.com)
-* 🚀  I'm currently working on [Invoice automation system](http://fintrak.com)
-* 🧠  I'm learning React
-* 🤝  I'm open to collaborating on Projects
-* ⚡  Always exploring new technologies to improve development workflows.
 
 ### Skills
 
