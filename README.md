@@ -25,12 +25,20 @@ I specialize in backend and full-stack development using Python, JavaScript, and
 
 <b>My GitHub Stats</b>
 
-<div style="display: flex; align-items: center;">
-  <a href="http://www.github.com/Edwardmurithi">
-    <img src="https://github-readme-stats.vercel.app/api?username=Edwardmurithi&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Edwardmurithi's GitHub stats" />
+<p align="center">
+  <a href="https://github.com/Edwardmurithi">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=EdwardMurithi&theme=radical&border=7F3FBF&background=0D1117" alt="Edward's GitHub streak"/>
   </a>
-  <a href="https://github.com/Edwardmurithi" align="left">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edwardmurithi&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
-  </a>
-</div>
+</p>
 
+<p align="center">
+  <a href="https://github.com/Edwardmurithi">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Edwardmurithi&theme=radical" alt="Edward's GitHub Contribution"/>
+  </a>
+</p>
+
+<a> 
+    <a href="https://github.com/Edwardmurithi"><img alt="Edward's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Edwardmurithi&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/EdwardMurithi"><img alt="Edward's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Edwardmurithi&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <br/>
+</a>
