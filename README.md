@@ -30,6 +30,5 @@ I specialize in backend and full-stack development using Python, JavaScript, and
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Edwardmurithi"><img src="https://github-readme-stats.vercel.app/api?username=Edwardmurithi&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Edwardmurithi's GitHub stats" /></a>
-
-<a href="https://github.com/Edwardmurithi" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edwardmurithi&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+![Edward's GitHub stats](https://github-readme-stats.vercel.app/api?username=Edwardmurithi&show_icons=true&theme=radical)
+![Edward's Top Languages](https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Edwardmurithi&langs_count=8&layout=compact&theme=radical&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866)
