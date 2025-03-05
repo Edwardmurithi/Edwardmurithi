@@ -27,12 +27,6 @@ I specialize in backend and full-stack development using Python, JavaScript, and
 
 <p align="center">
   <a href="https://github.com/Edwardmurithi">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=EdwardMurithi&theme=radical&border=7F3FBF&background=0D1117" alt="Edward's GitHub streak"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Edwardmurithi">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Edwardmurithi&theme=radical" alt="Edward's GitHub Contribution"/>
   </a>
 </p>
